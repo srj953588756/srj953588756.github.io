@@ -29,34 +29,34 @@
   }
 }
 :root {
-  --site-bg: #f9fafb;
+  --site-bg: #fff;
   --card: #fff;
   --block: #f1f2f3;
   --block-border: #e3e5e8;
   --block-hover: #e9eaec;
   --text-p0: #000;
-  --text-p1: #333;
-  --text-p2: #4d4d4d;
-  --text-p3: #808080;
-  --text-p4: #999;
-  --text-meta: #ccc;
+  --text-p1: #2e292b;
+  --text-p2: #443e41;
+  --text-p3: #72676c;
+  --text-p4: #887c82;
+  --text-meta: #b1a9ad;
   --text-code: #f53900;
   --theme-bg2: #1cd0fd;
   --theme-link: #2094f3;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --site-bg: #1c1e21;
+    --site-bg: #141414;
     --card: #373d43;
     --block: #26292c;
     --block-border: #383d42;
     --block-hover: #2f3337;
     --text-p0: #fff;
-    --text-p1: #ccc;
-    --text-p2: #b3b3b3;
-    --text-p3: #858585;
-    --text-p4: #707070;
-    --text-meta: #4d4d4d;
+    --text-p1: #d6d1d4;
+    --text-p2: #c1bbbe;
+    --text-p3: #9c9297;
+    --text-p4: #8c8086;
+    --text-meta: #6c6267;
     --text-code: #ff6333;
   }
 }
